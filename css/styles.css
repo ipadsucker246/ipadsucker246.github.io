@@ -148,13 +148,9 @@ nav a {
 }
 /*MEDIA QUERIES*/
 /*MEDIA QUERIES*/
-.column-narrow h3{
-	background-color:#2B2D42;
-	color:aliceblue;
-	display: block;
-	border-radius: 10px;
-	padding:5px
-	
+.column-narrow {
+	padding: 30px; 
+}
 }
 @media (min-width: 900px) {
   .col-narrow {
